@@ -1,1 +1,42 @@
+body {
 
+    background-color: #f4f4f4cc;
+  
+    font-family: Arial, sans-serif;
+  
+    line-height: 1.6;
+  
+    margin: 0;
+  
+    padding: 0;
+  
+   }
+
+h1 {
+
+    background-color: transparent;
+
+    font-size: larger;
+
+    
+}
+
+blockquote {
+
+    background-color: rgba(0, 255, 255, 0.63);
+
+    font-family: 'Times New Roman', Times, serif;
+
+    font-style: italic;
+
+}
+
+cite {
+
+    font-family: 'Courier New', Courier, monospace;
+
+    font-style: normal;
+
+    font-weight: bold;
+
+}
